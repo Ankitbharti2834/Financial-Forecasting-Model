@@ -1,4 +1,4 @@
-# Project 4 — Financial Forecasting Model & Cost-Profitability Analysis
+# Project - Financial Forecasting Model & Cost-Profitability Analysis
 
 **Organization:** Aware Custom Biometric Wearables  
 **Domain:** Financial Analytics | Business Intelligence | Strategic Planning  
